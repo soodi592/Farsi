@@ -1,6 +1,8 @@
 
 <!-- ![Logo](images/farsi.png) -->
-<img src="images/farsi.png" alt="Logo" width="400" height="250"/>
+<p align="center">
+    <img src="images/farsi.png" alt="Logo" width="400" height="250"/>
+</p>
 
 
 
