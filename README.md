@@ -1,5 +1,7 @@
 
-![Logo](images/farsi.png)
+<!-- ![Logo](images/farsi.png) -->
+<img src="images/farsi.png" alt="Logo" width="300" height="150"/>
+
 
 
 # Farsi PL (Programming Language)
